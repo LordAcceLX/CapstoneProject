@@ -33,7 +33,7 @@ This project implements a real-time, dynamic parking price prediction system usi
 ```mermaid
 flowchart TD
     subgraph A[Data Stream]
-        A1[dataset.csv (streaming via Pathway)]
+        A1[dataset.csv - Pathway Stream]
     end
 
     subgraph B[Model Logic]
@@ -41,7 +41,7 @@ flowchart TD
         B2[Model 2: Dynamic Price]
     end
 
-    subgraph C[Output]
+    subgraph C[Output Files]
         C1[stream_output_model1.csv]
         C2[stream_output_model2.csv]
     end
