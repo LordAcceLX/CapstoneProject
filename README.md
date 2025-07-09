@@ -1,8 +1,10 @@
 # 🚗 Smart Dynamic Parking Pricing (Real-Time with Pathway & Bokeh)
 
-This project implements a real-time, dynamic parking price prediction system using **Pathway** for stream processing and **Bokeh** for live visualization. The pricing models adapt to live data inputs such as occupancy, queue length, traffic conditions, special events, and vehicle types. The aim is to simulate intelligent, real-world pricing decisions based on supply, demand, and competition.A Demo Video is attacthed on how to run plots.
+This project implements a real-time, dynamic parking price prediction system using **Pathway** for stream processing and **Bokeh** for live visualization. The pricing models adapt to live data inputs such as occupancy, queue length, traffic conditions, special events, and vehicle types. The aim is to simulate intelligent, real-world pricing decisions based on supply, demand, and competition.
+A Demo Video is attacthed on how to run plots.
+gdrive to video here ->
+https://drive.google.com/drive/folders/1_wDRBQDy47wibL8R04KQsA-qWSOZRQUn?usp=sharing
 ---
-
 ## 🧰 Tech Stack
 
 | Technology | Role |
